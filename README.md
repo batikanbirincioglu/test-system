@@ -4,6 +4,7 @@
 The following repo contains simple application for tracking tests solved by students.
 
 ## More Info
+0. Use your favourite IDE after downloading the code, do a mvn clean install, and click Run.
 1. When application starts, it creates some dummy students with some questions and tests. <br> Those initialization data can be queried by swagger web api (http://localhost:8080/api/swagger-ui/index.html)
 2. On top of those dummy data, one can create his own students, questions, tests etc...
 3. Again all the API documentation can be found in the link above.
